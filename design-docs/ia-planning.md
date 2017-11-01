@@ -10,6 +10,7 @@ pricing
 download links
 reviews
 customer stories
+employee profiles
 day in the life (w and wo)
 comparison chart w sim products?
 gallery of people using the app?

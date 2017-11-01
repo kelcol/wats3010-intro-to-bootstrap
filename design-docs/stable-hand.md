@@ -23,11 +23,6 @@ Show visitor a world with and without Stable Hand and help them help themselves 
 
 ##### The Neighbors
 
-
-
-
-
-
 <br>
 ###### Checkout
 
