@@ -4,38 +4,53 @@
 
 <br>
 
-#####The Objective
+##### The Objective
 Design and develop a site promoting a task app for stable hands 
 
 ##### The Concept
-Clean and simple and equestrian-inspired (no hunting horns tho!)
-Movement is a big part of being around horses, so should have a looping video somewhere (maybe artsy, of wind blowing through mane? or sawdust blowing across a barn floor?)
-Any dynamic features should be very smooth to appeal to and avoid alarming folks sensitve to tiny movements
+Site should be clean, simple, and equestrian-inspired. Those who spend time around horses must have finely-tuned awareness of movement around them as they must be able to respond quickly to sudden, and often very subtle, motion in their environemnt. Any movement perceptible in the site from visual elements should keep this in mind. This site is intended to promote and support using the application; it is not the corresponding web applicaiton for the mobile app. There should be a prominently displayed LOGIN button that conducts users on a somewhat seamless journey to Stable Hand's web application. Somewhat seamless so users are able to distinguish promotional/support site from application site, and know they are connected but distinct.
 
 
 ##### The Hope
-Convey sense of familiarity with simple design able to scale well on a mobile device (since Stable Hand is a mobile app)
-Convince user that company is knowledgeable of the domain and not just a tech company
-Show visitor a world with and without Stable Hand and help them help themselves decide which one to live in (the SH one)
+Site should convey that the creators have an understanding of the world occupied by current and potential users. Convince users by giving them an experience on the promotional site they can infer will be similar to how they experience using the product. Show visitor a world with and without Stable Hand and help them help themselves to decide which one to live in (the SH one).
 
 
-##### The Inspiration
+##### Sites Referenced for Inspiration
+[Demo Site for horse biz](https://www.templatemonster.com/demo/61369.html)
+* demo site for a bootstrap site template 
+* makes a good effort to represent content for demo purposes
+* I like that all site pages are inventoried when you hover over pages
 
-##### The Neighbors
 
-<br>
-###### Checkout
+[iStable](http://www.istable.com/)
+* explainer video and customer feedback featured on launch page
+* think the dropdown menus in nav bar should use more contrasting colors
 
-* [Stable Secretary](http://stablesecretary.com/) 
-* 
-<br>
+
+[Stable Secretary](http://stablesecretary.com/) 
+* well organized and informative launch page
+* lots of screenshots
+* main nav bar is spare but bottom nav contains many additional links
+
+[Horse Notes](http://horsenotes.co/)
+* Not crazy about having to hover over icons in feature carousel to learn more about them
+* Some of the text is hard to read due to size and color
+* limited amount of product information available
+* feels like the intention of site is to shuttle users to app stores (where some additional product information not on site is availble)
+* there are some deadends in the form of "Coming soon!" pages I think are discouraging to users
+
+
 
 To-Do
 ====
 (little x for done and big X for done-done)
 <br>
 [X] Name of site/company
-[x] Description of your design concept/approach
-[x] What you hope to accomplish with your design concept/approach
-[ ] Other sites you looked at for inspiration (include links)
-[ ] Other sites for comparable businesses that justify your concept/approach (include links)
+
+[X] Description of your design concept/approach
+
+[X] What you hope to accomplish with your design concept/approach
+
+[X] Other sites you looked at for inspiration (include links)
+
+[X ] Other sites for comparable businesses that justify your concept/approach (include links)
