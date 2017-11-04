@@ -34,22 +34,6 @@
 * people using mobile devices
 * barn scenes 
 
-# user personas
-
-* owners/managers of small, medium, and large sized commercial stables (3)
-* stable hands conducting product research for employers
-* hobby barn owners
-
-
-# user objectives and tasks
-
-* find information to support purchase decisionmaking 
-* get help using product from documentation or interaction with tech support 
-* find out about upcoming releases
-* offer feedback and suggestions
-* learn how customers like them are using the product
-* get materials to assist in convincing business decision makers to purchase product
-* learn how this product integrates with barn information mangement software suites
 
 <br>
 
