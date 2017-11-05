@@ -4,14 +4,14 @@
 
 <br>
 
-##### The Objective
-Design and develop a site promoting a task app for stable hands 
+##### Site Objective
+Stable Hand is a mobile and web application that allows stable workers to carry out routine barn tasks in a more organized fashion. It integrates with barn management software from other providers. Integration allows barn managers to send notifications and updates to Stable Hand users.
 
-##### The Concept
-Site should be clean, simple, and equestrian-inspired. Those who spend time around horses must have finely-tuned awareness of movement around them as they must be able to respond quickly to sudden, and often very subtle, motion in their environemnt. Any movement perceptible in the site from visual elements should keep this in mind. This site is intended to promote and support using the application; it is not the corresponding web applicaiton for the mobile app. There should be a prominently displayed LOGIN button that conducts users on a somewhat seamless journey to Stable Hand's web application. Somewhat seamless so users are able to distinguish promotional/support site from application site, and know they are connected but distinct.
+##### Design Concept
+Site should be clean, simple, and equestrian-inspired. This site will serve to promote Stable Hand and link to the corresponding web applicaiton for the mobile app. There should be a prominently displayed login button to conduct existing users off site to the Stable Hand web application. Users should be able to distinguish promotional/support site from application site, and know they are connected but distinct.
 
 
-##### The Hope
+##### Site Ambition
 Site should convey that the creators have an understanding of the world occupied by current and potential users. Convince users by giving them an experience on the promotional site they can infer will be similar to how they experience using the product. Show visitor a world with and without Stable Hand and help them help themselves to decide which one to live in (the SH one).
 
 
@@ -43,14 +43,14 @@ Site should convey that the creators have an understanding of the world occupied
 * feels like the intention of site is to shuttle users to app stores (where some additional product information not on site is availble)
 * there are some deadends in the form of "Coming soon!" pages I think are discouraging to users
 
-# user personas
+# User personas
 
 * owners/managers of small, medium, and large sized commercial stables (3)
 * stable hands conducting product research for employers
 * hobby barn owners
 
 
-# user objectives and tasks
+# User objectives and tasks
 
 * find information to support purchase decisionmaking 
 * get help using product from documentation or interaction with tech support 

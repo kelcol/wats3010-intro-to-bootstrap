@@ -12,8 +12,8 @@
 * product description
 * features chart
 * pricing
+* customer testimonials
 * download links
-* aggregated reviews
 * comparison chart w sim products
 * product integration charts
 
@@ -27,8 +27,8 @@
 * in the news
 * customer communication
 * release notices
-* customer testimonials
 * feature length customer stories
+* * customer training
 
 # images
 * people using mobile devices
@@ -41,8 +41,8 @@ To-Do
 ====
 (little x for done and big X for done-done)
 
-[ ] Use any application you prefer to create your IA Diagram  
+[X] Use any application you prefer to create your IA Diagram  
 
-[ ] Be sure to include every page in your site and indicate every link in your site  
+[x] Be sure to include every page in your site and indicate every link in your site  
 
-[ ] Provide additional explanation as needed  
+[x] Provide additional explanation as needed  
