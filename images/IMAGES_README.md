@@ -1,1 +1,0 @@
-Place images you will use on the site in this directory.
