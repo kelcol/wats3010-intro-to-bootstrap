@@ -1,1 +1,11 @@
 /* Custom styles go here. */
+
+
+.dropdown-header {
+    text-align: center;
+}
+
+
+.navbar-brand {
+    font-weight: bolder;
+}
