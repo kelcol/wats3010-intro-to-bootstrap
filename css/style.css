@@ -9,3 +9,18 @@
 .navbar-brand {
     font-weight: bolder;
 }
+
+.img-fluid {
+    width: 100%; 
+    height: auto;
+}
+
+.img-fluid--carousel {
+    height: 20%;
+}
+
+.row {
+  margin-top: 30px;
+  margin-bottom: 30px
+}
+
